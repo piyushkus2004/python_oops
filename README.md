@@ -12,8 +12,9 @@
       student s = new student() ;
    - refrence = dynamic constructor()
 
-     refrence = student s ,  
+     refrence = student s ,  dynamic = new , Constructor name is same always as class
 ## 3.  **Constructor** 
+
 ## 4.  **Refrence** 
 ## 5.  **Abstrraction** 
 ## 6.  **Polymorphism** 
