@@ -13,11 +13,12 @@
    - refrence = dynamic constructor()
 
      refrence = student s ,  dynamic = new , Constructor name is same always as class
-## 3.  **Constructor** 
 
-## 4.  **Refrence** 
-## 5.  **Abstrraction** 
-## 6.  **Polymorphism** 
-## 7.  **Encapsulation**
-## 8.  **Inheritance**
-## 9.  **Data Abstraction**
+## 3.  **Refrence** 
+ *   Refrence helps in accessing the  variables and objects that are stored in memory     
+## 4.  **Abstrraction** 
+ *   
+## 5.  **Polymorphism** 
+## 6.  **Encapsulation**
+## 7.  **Inheritance**
+## 8.  **Data Abstraction**
