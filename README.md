@@ -22,7 +22,7 @@
    for example - printing a program in python without knowing the process happening inside the computer
 ## 5.  **Polymorphism** 
 *    Polymorphism simply means that having many forms
-*     
+*    
 ## 6.  **Encapsulation**
 *    
 ## 7.  **Inheritance**
